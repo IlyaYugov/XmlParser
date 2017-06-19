@@ -1,22 +1,44 @@
 <?xml version="1.0"?>
 <audit_result>
-
-
 	<refbook>
+	
 		<sku>
-			<kv key="1" value="123"/>
-			<kv key="2" value="122rtr3"/>
+			<kv key="1" value="2"/>
+			<kv key="2" value="3"/>
 		</sku>
+		
 		<question>
-			<kv key="1" value="123"/>
-			<kv key="2" value="123"/>
+			<kv key="1" value="">
+				<sked>
+					<kv key="2" value="1"/>
+					<kv key="3" value="234"/>
+				</sked>
+			</kv>		
 		</question>
+		
 	</refbook>
 	
-	
 	<visits>
-		<visit id="133"/>
-		<visit id="2"/>
+		<visit id="11" pos="1"/>
+		<visit id="22" pos="2"/>
 	</visits>
+	
+	
+	<promo>
+		<questionary name="" id="" valid_from="" valid_to="">
+			<questionary_item id="" qid="" operand_type="" pos="" audit_value="">
+				<visit_value>
+					<kv key="1" value=""/>
+					<kv key="2" value=""/>
+				</visit_value>
+				<children>
+					<questionary_item></questionary_item>
+					<questionary_item></questionary_item>
+					<!-- дочерние вопросы анкеты -->
+				</children>
+			</questionary_item>
+		</questionary>
+		<questionary></questionary>
+	</promo>
 	
 </audit_result>

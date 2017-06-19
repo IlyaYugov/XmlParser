@@ -1,0 +1,631 @@
+<audit_result salepoint_id="12818">
+  <visits>
+    <visit id="5DF3F377-8D51-4179-B937-4881EEF11424" pos="1" />
+    <visit id="98119FFC-037E-477F-96A1-D5B62D0AFE1A" pos="2" />
+  </visits>
+  <refbook>
+    <question>
+	  <kv key="51" value="">
+		<sked>
+			<kv key="2" value="1"/>
+			<kv key="3" value="234"/>
+		</sked>
+	  </kv>	
+      <kv key="1" value="Наличие СКЮ в ТЗ" />
+      <kv key="7" value="Мин. тов. запас TOP SKU в ТЗ выполнен" />
+      <kv key="8" value="Визит с ПО" />
+      <kv key="9" value="Фокусные POSm месяца размещены" />
+      <kv key="10" value="ХО по планограмме" />
+      <kv key="11" value="ХО заполнен на 80%" />
+      <kv key="12" value="ХО охлаждает, горят лампы" />
+      <kv key="13" value="ХО требования экскл. соблюдены" />
+      <kv key="14" value="ХО чистый" />
+      <kv key="15" value="На кажд. SKU ценник с одинак. ценой" />
+      <kv key="44" value="Наличие ХО HR" />
+    </question>
+    <sku>
+      <kv key="69" value="ДЕСПЕРАДОС ОРГ БУТ 0,4" />
+      <kv key="95" value="ХЕЙНЕКЕН ПРМ БУТ 0,33" />
+      <kv key="98" value="ХЕЙНЕКЕН ПРМ БУТ 0,5" />
+      <kv key="100" value="ХЕЙНЕКЕН ПРМ БУТ 0,65" />
+      <kv key="103" value="ХЕЙНЕКЕН ПРМ ДК 5,0" />
+      <kv key="128" value="ОХОТА КРП ПЭТ 1,0" />
+      <kv key="158" value="ОСТМАРК СВТ ПЭТ 2,0" />
+      <kv key="296" value="ХЕЙНЕКЕН ПРМ БУТ 6x0,33" />
+      <kv key="6765722" value="ХЕЙНЕКЕН ПРМ БУТ 4x0,5" />
+      <kv key="6765816" value="ХЕЙНЕКЕН ПРМ БУТ 3x0,5G" />
+      <kv key="6765837" value="ХЕЙНЕКЕН ПРМ БАН 4x0,33" />
+      <kv key="6765844" value="ТРИ_МЕДВЕДЯ СВТ ПЭТ 2,0" />
+      <kv key="6765847" value="ХЕЙНЕКЕН ПРМ БАН 6x0,33" />
+      <kv key="6765850" value="ХЕЙНЕКЕН ПРМ БАН 0,33" />
+      <kv key="6765911" value="КРУШОВИЦЕ СВТ БУТ 0,5" />
+      <kv key="6765912" value="КРУШОВИЦЕ ЧРН БУТ 0,5" />
+      <kv key="6765983" value="ДОКТОР_ДИЗЕЛЬ РДЛ БУТ 0,48" />
+      <kv key="6765986" value="ДОКТОР_ДИЗЕЛЬ ПРМ БУТ 0,48" />
+      <kv key="6765987" value="ДОКТОР_ДИЗЕЛЬ ПРМ ПЭТ 1,4" />
+      <kv key="6765989" value="ДОКТОР_ДИЗЕЛЬ СЛ БУТ 0,48" />
+      <kv key="6765993" value="ЖИГУЛЕВСКОЕ СВТ ПЭТ 2,3" />
+      <kv key="6765994" value="ЗЛАТЫЙ_БАЗАНТ НА БУТ 0,48" />
+      <kv key="6765995" value="ЗЛАТЫЙ_БАЗАНТ РДЛ БУТ 0,48" />
+      <kv key="6765998" value="ЗЛАТЫЙ_БАЗАНТ СВТ БУТ 0,48" />
+      <kv key="6765999" value="ЗЛАТЫЙ_БАЗАНТ СВТ ПЭТ 1,4" />
+      <kv key="6766000" value="ЗЛАТЫЙ_БАЗАНТ ЧРН БАН 0,48" />
+      <kv key="6766001" value="ЗЛАТЫЙ_БАЗАНТ ЧРН БУТ 0,48" />
+      <kv key="6766007" value="ОКСКОЕ БЧК ПЭТ 1,4" />
+      <kv key="6766008" value="ОКСКОЕ БЧК ПЭТ 2,3" />
+      <kv key="6766011" value="ОКСКОЕ ЖИВ ПЭТ 1,4" />
+      <kv key="6766012" value="ОКСКОЕ ЖИВ ПЭТ 2,3" />
+      <kv key="6766013" value="ОСТМАРК ЖИВ ПЭТ 1,4" />
+      <kv key="6766015" value="ОСТМАРК КРП ПЭТ 1,4" />
+      <kv key="6766018" value="ОСТМАРК СВТ ПЭТ 1,4" />
+      <kv key="6766022" value="ОХОТА КРП ПЭТ 1,4" />
+      <kv key="6766035" value="РУСИЧ КРП ПЭТ 1,4" />
+      <kv key="6766039" value="СТЕПАН_РАЗИН АДМ БУТ 0,48" />
+      <kv key="6766040" value="СТЕПАН_РАЗИН АДМ ПЭТ 1,4" />
+      <kv key="6766044" value="СТЕПАН_РАЗИН ПТР ПЭТ 1,4" />
+      <kv key="6766045" value="СТЕПАН_РАЗИН ПТР ПЭТ 2,3" />
+      <kv key="6766047" value="СТЕПАН_РАЗИН СПЦ ПЭТ 1,4" />
+      <kv key="6766058" value="ТРИ_МЕДВЕДЯ КРС ПЭТ 1,4" />
+      <kv key="6766059" value="ТРИ_МЕДВЕДЯ КРС ПЭТ 2,3" />
+      <kv key="6766062" value="ТРИ_МЕДВЕДЯ СВТ ПЭТ 1,4" />
+      <kv key="6766063" value="ТРИ_МЕДВЕДЯ СВТ ПЭТ 2,3" />
+      <kv key="6766183" value="КРУШОВИЦЕ СВТ ДК 5,0" />
+      <kv key="6766207" value="АМСТЕЛ ПП ПЭТ 1,35" />
+      <kv key="6766227" value="ДОКТОР_ДИЗЕЛЬ РЕД БУТ 0,48" />
+      <kv key="6766236" value="ОСТМАРК КВС ПЭТ 1,4" />
+      <kv key="6766243" value="РУСИЧ КВС ПЭТ 1,4" />
+      <kv key="6766289" value="ХЕЙНЕКЕН ПРМ БУТ 6x0,5G" />
+      <kv key="6766290" value="ХЕЙНЕКЕН ПРМ БАН 6x0,5G" />
+      <kv key="6766296" value="ХЕЙНЕКЕН ПРМ БАН 9x0,5G" />
+      <kv key="6766297" value="ХЕЙНЕКЕН ПРМ БАН 12x0,5G" />
+      <kv key="6766310" value="ГИННЕСС ОРГ БАН 0,48" />
+      <kv key="6766311" value="ГИННЕСС ОРГ БУТ 0,45" />
+      <kv key="6766343" value="ГЕССЕР СВТ ПЭТ 1,35" />
+      <kv key="6766359" value="ТРИ_МЕДВЕДЯ ЖИВ ПЭТ 1,4" />
+      <kv key="6766367" value="СТРОНГБОУ ЭПЛ БУТ 0,4" />
+      <kv key="6766371" value="СТЕПАН_РАЗИН СЭ БУТ 0,48" />
+      <kv key="6766394" value="ТАЙГЕР СВТ БУТ 0,44" />
+      <kv key="6766403" value="ОХОТА КРП БУТ 0,45" />
+      <kv key="6766428" value="ТРИ_МЕДВЕДЯ СВТ БАН 0,45" />
+      <kv key="6766429" value="ОХОТА КРП БАН 0,45" />
+      <kv key="6766430" value="ГЕССЕР СВТ БАН 0,45" />
+      <kv key="6766437" value="АМСТЕЛ НА БАН 0,45" />
+      <kv key="6766438" value="АМСТЕЛ ПП БУТ 0,45" />
+      <kv key="6766439" value="АМСТЕЛ ПП БАН 0,45" />
+      <kv key="6766440" value="АМСТЕЛ ВСС БУТ 0,45" />
+      <kv key="6766442" value="ДОКТОР_ДИЗЕЛЬ ПРМ БАН 0,45" />
+      <kv key="6766443" value="ДОКТОР_ДИЗЕЛЬ СЛ БАН 0,45" />
+      <kv key="6766444" value="ЭДЕЛЬВЕЙСС ХФТ БУТ 0,45" />
+      <kv key="6766445" value="ЭДЕЛЬВЕЙСС ХФТ БАН 0,45" />
+      <kv key="6766447" value="ГЕССЕР АЛФ БУТ 0,45" />
+      <kv key="6766448" value="ГЕССЕР СВТ БУТ 0,45" />
+      <kv key="6766449" value="ХЕЙНЕКЕН ПРМ БАН 0,45" />
+      <kv key="6766450" value="КАЛИНКИН СВТ БУТ 0,45" />
+      <kv key="6766451" value="КЕНИГСБЕРГ СВТ БУТ 0,45" />
+      <kv key="6766454" value="КРУШОВИЦЕ СВТ БАН 0,45" />
+      <kv key="6766455" value="ОКСКОЕ БЧК БУТ 0,45" />
+      <kv key="6766456" value="ОКСКОЕ БЧК БАН 0,45" />
+      <kv key="6766459" value="ОСТМАРК КРП БУТ 0,45" />
+      <kv key="6766460" value="ОСТМАРК СВТ БУТ 0,45" />
+      <kv key="6766461" value="ОСТМАРК СВТ БАН 0,45" />
+      <kv key="6766469" value="СТЕПАН_РАЗИН ПТР БУТ 0,45" />
+      <kv key="6766470" value="СТЕПАН_РАЗИН ПТР БАН 0,45" />
+      <kv key="6766471" value="СТЕПАН_РАЗИН СПЦ БУТ 0,45" />
+      <kv key="6766472" value="СТЕПАН_РАЗИН ЗНТ БАН 0,45" />
+      <kv key="6766473" value="СТЕПАН_РАЗИН ЗНТ БУТ 0,45" />
+      <kv key="6766477" value="ТАЙГЕР СВТ БАН 0,45" />
+      <kv key="6766480" value="ТРИ_МЕДВЕДЯ СВТ БУТ 0,45" />
+      <kv key="6766487" value="ЗЛАТЫЙ_БАЗАНТ СВТ БАН 0,45" />
+      <kv key="6766488" value="АМСТЕЛ ПП БАН 4x0,45" />
+      <kv key="6766489" value="АМСТЕЛ ПП БАН 6x0,45" />
+      <kv key="6766490" value="ДОКТОР_ДИЗЕЛЬ ПРМ БАН 6x0,45" />
+      <kv key="6766491" value="ХЕЙНЕКЕН ПРМ БАН 4x0,45" />
+      <kv key="6766492" value="ХЕЙНЕКЕН ПРМ БАН 6x0,45" />
+      <kv key="6766493" value="КРУШОВИЦЕ СВТ БАН 4x0,45" />
+      <kv key="6766495" value="ОХОТА КРП БАН 6x0,45" />
+      <kv key="6766496" value="СТЕПАН_РАЗИН ПТР БАН 4x0,45" />
+      <kv key="6766497" value="ЗЛАТЫЙ_БАЗАНТ СВТ БАН 6x0,45" />
+      <kv key="6766556" value="ХЕЙНЕКЕН 0.0 БУТ 0,5" />
+      <kv key="6766557" value="ХЕЙНЕКЕН 0.0 БАН 0,45" />
+      <kv key="6766559" value="ЧЕШСКОЕ_БОЧКАРЕВ СВТ ПЭТ 1,35" />
+    </sku>
+  </refbook>
+  <salepoint>
+    <group name="TT SR &amp; SAR EO SP" id="7763" valid_from="2017-02-11T00:00:00">
+      <questionary_item id="56514" qid="44" operand_type="b" pos="0">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+        <children>
+          <questionary_item id="56515" qid="14" operand_type="b" pos="1" audit_value="Да">
+            <visit_value>
+              <kv key="1" value="Да" />
+			  <kv key="2" value="нет" />
+            </visit_value>
+          </questionary_item>
+          <questionary_item id="56516" qid="12" operand_type="b" pos="2">
+            <visit_value>
+              <kv key="1" value="Да" />
+            </visit_value>
+          </questionary_item>
+          <questionary_item id="56517" qid="13" operand_type="b" pos="3" audit_value="Да">
+            <visit_value>
+              <kv key="1" value="Нет" />
+            </visit_value>
+          </questionary_item>
+          <questionary_item id="56518" qid="11" operand_type="b" pos="4" audit_value="Да">
+            <visit_value>
+              <kv key="1" value="Нет" />
+            </visit_value>
+          </questionary_item>
+          <questionary_item id="56519" qid="10" operand_type="b" pos="5">
+            <visit_value>
+              <kv key="1" value="Нет" />
+            </visit_value>
+          </questionary_item>
+        </children>
+      </questionary_item>
+      <questionary_item id="56520" qid="15" operand_type="b" pos="6" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56521" qid="7" operand_type="b" pos="7" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56522" qid="9" operand_type="b" pos="8">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56523" qid="8" operand_type="b" pos="9" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Нет" />
+        </visit_value>
+      </questionary_item>
+    </group>
+  
+	<group name="TT SR &amp; SAR EO SP2" id="7763" valid_from="2017-02-11T00:00:00">
+      <questionary_item id="56514" qid="44" operand_type="b" pos="0">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+        <children>
+          <questionary_item id="56515" qid="14" operand_type="b" pos="1" audit_value="Да">
+            <visit_value>
+              <kv key="1" value="Да" />
+			  <kv key="2" value="нет" />
+            </visit_value>
+          </questionary_item>
+          <questionary_item id="56516" qid="12" operand_type="b" pos="2">
+            <visit_value>
+              <kv key="1" value="Да" />
+            </visit_value>
+          </questionary_item>
+          <questionary_item id="56517" qid="13" operand_type="b" pos="3" audit_value="Да">
+            <visit_value>
+              <kv key="1" value="Нет" />
+            </visit_value>
+          </questionary_item>
+          <questionary_item id="56518" qid="11" operand_type="b" pos="4" audit_value="Да">
+            <visit_value>
+              <kv key="1" value="Нет" />
+            </visit_value>
+          </questionary_item>
+          <questionary_item id="56519" qid="10" operand_type="b" pos="5">
+            <visit_value>
+              <kv key="1" value="Нет" />
+            </visit_value>
+          </questionary_item>
+        </children>
+      </questionary_item>
+      <questionary_item id="56520" qid="15" operand_type="b" pos="6" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56521" qid="7" operand_type="b" pos="7" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56522" qid="9" operand_type="b" pos="8">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56523" qid="8" operand_type="b" pos="9" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Нет" />
+        </visit_value>
+      </questionary_item>
+    </group>
+  
+  </salepoint>
+  <sku>
+    <group id="6766440" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766437" pos="0" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766439" pos="1" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766488" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766489" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766438" pos="1" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Нет" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766207" pos="3" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Нет" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766447" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766430" pos="4" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766448" pos="5" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766343" pos="6" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766310" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766311" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="69" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766442" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766490" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765986" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765987" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765983" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766227" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766443" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765989" pos="7" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765993" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765994" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765995" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766487" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766497" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765998" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765999" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766000" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766001" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766450" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766451" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766454" pos="8" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766493" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765911" pos="9" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766183" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765912" pos="10" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766456" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766455" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766007" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766008" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766011" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766012" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766013" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766236" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766459" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766015" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766461" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766460" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766018" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="158" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766429" pos="11" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766495" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766403" pos="12" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="128" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766022" pos="13" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766243" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766035" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766039" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766040" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766472" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766473" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766470" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766496" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766469" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766044" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766045" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766471" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766047" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766371" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766367" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766477" pos="14" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766394" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766359" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766058" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766059" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766428" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766480" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766062" pos="15" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765844" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766063" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766557" pos="16" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="6766556" pos="17" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765850" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766449" pos="18" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766297" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765837" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766491" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765847" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766492" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766290" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766296" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="95" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="98" pos="19" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да">
+        <visit_value>
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+    </group>
+    <group id="100" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765816" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6765722" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="296" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766289" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="103" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766559" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766445" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+    <group id="6766444" is_selected="1">
+      <questionary_item id="71447" qid="1" operand_type="b" pos="0" audit_value="Да" />
+    </group>
+  </sku>
+</audit_result>
