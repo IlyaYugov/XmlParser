@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CarCollection>
+<Cars>
+  <Car StockNumber = "1020" Make = "Nissan" Model = "Sentra"/>
+</Cars>
+</CarCollection>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<audit_result>
+
+
+	<refbook>
+		<sku>
+			<kv key="1" value="123"/>
+			<kv key="2" value="122rtr3"/>
+		</sku>
+		<question>
+			<kv key="1" value="123"/>
+			<kv key="2" value="123"/>
+		</question>
+	</refbook>
+	
+	
+	<visits>
+		<visit id="133"/>
+		<visit id="2"/>
+	</visits>
+	
+</audit_result>

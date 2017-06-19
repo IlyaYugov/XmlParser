@@ -1,0 +1,67 @@
+<audit_result salepoint_id="12818">
+  <visits>
+    <visit id="5DF3F377-8D51-4179-B937-4881EEF11424" pos="1" />
+    <visit id="98119FFC-037E-477F-96A1-D5B62D0AFE1A" pos="2" />
+  </visits>
+  <promo>0</promo>
+  <salepoint>
+    <questionary name="TT SR &amp; SAR EO SP" id="7763" valid_from="2017-02-11T00:00:00">
+      <questionary_item id="56514" qid="44" operand_type="b" pos="0">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56515" qid="14" operand_type="b" pos="1" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56516" qid="12" operand_type="b" pos="2">
+        <visit_value>
+          <kv key="1" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56517" qid="13" operand_type="b" pos="3" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56518" qid="11" operand_type="b" pos="4" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56519" qid="10" operand_type="b" pos="5">
+        <visit_value>
+          <kv key="1" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56520" qid="15" operand_type="b" pos="6" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56521" qid="7" operand_type="b" pos="7" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56522" qid="9" operand_type="b" pos="8">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56523" qid="8" operand_type="b" pos="9" audit_value="Да">
+        <visit_value>
+          <kv key="1" value="Нет" />
+        </visit_value>
+      </questionary_item>
+    </questionary>
+  </salepoint>
+  <sku_q>104</sku_q>
+  <sku>104</sku>
+</audit_result>

@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<audit_result>
+
+
+	<refbook>
+		<sku>
+			<kv key="1" value=""/>
+			<kv key="2" value=""/>
+		</sku>
+		<question>
+			<kv key="1" value=""/>
+			<kv key="2" value=""/>
+		</question>
+	</refbook>
+	
+	
+	<visits>
+		<visit id="1"/>
+		<visit id="2"/>
+	</visits>
+	
+	
+<promo>
+    <questionary name="" id="" ValidFrom="" ValidTo="">
+      <questionary_item id="" qid="" type="" pos="" audit_value="">
+        <sked>
+          <kv key="" value=""/>
+          <kv key="" value=""/>
+        </sked>
+        <visit_value>
+          <kv id="" value=""/>
+          <kv id="" value=""/>
+        </visit_value>
+        <children>
+          <questionary_item></questionary_item>
+          <questionary_item></questionary_item>
+          <!-- дочерние вопросы анкеты -->
+        </children>
+      </questionary_item>
+    </questionary>
+    <questionary></questionary>
+  </promo>
+	
+	
+	<salepoint>
+		<qforms>
+			<qform name="" id="" ValidFrom="" ValidTo="">
+				<qqforms>
+					<qqform id="" qid="" type="" pos="" audit_value="">
+						<sked>
+							<kv key="" value=""/>
+							<kv key="" value=""/>
+						</sked>
+						<visit_value>
+							<kv id="" value=""/>
+							<kv id="" value=""/>
+						</visit_value>
+						<qqforms>
+							<!-- дочерние вопросы анкеты -->
+						</qqforms>
+					</qqform>
+				</qqforms>
+			</qform>
+		</qforms>
+	</salepoint>
+	
+	
+	<sku>
+		<sku id="" is_selected="" pos="">
+			<qqforms>
+				<!-- аналогично из promo -->
+			</qqforms>
+		</sku>
+	</sku>
+</audit_result>
