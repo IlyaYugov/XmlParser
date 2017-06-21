@@ -1,44 +1,96 @@
 <?xml version="1.0"?>
 <audit_result>
+
+
 	<refbook>
 	
 		<sku>
-			<kv key="1" value="2"/>
-			<kv key="2" value="3"/>
+			<kv key="1" value=""/>
+			<kv key="2" value=""/>
 		</sku>
 		
-		<question>
+		<question>		
 			<kv key="1" value="">
 				<sked>
-					<kv key="2" value="1"/>
-					<kv key="3" value="234"/>
+					<kv key="12" value="Yes"/>
+					<kv key="13" value="No"/>
 				</sked>
-			</kv>		
+			</kv>			
+			<kv key="2" value=""/>
 		</question>
 		
 	</refbook>
 	
+	
 	<visits>
-		<visit id="11" pos="1"/>
-		<visit id="22" pos="2"/>
+		<visit id="1" pos="3"/>
+		<visit id="2" pos="1"/>
 	</visits>
 	
 	
-	<promo>
-		<questionary name="" id="" valid_from="" valid_to="">
-			<questionary_item id="" qid="" operand_type="" pos="" audit_value="">
-				<visit_value>
-					<kv key="1" value=""/>
-					<kv key="2" value=""/>
-				</visit_value>
-				<children>
-					<questionary_item></questionary_item>
-					<questionary_item></questionary_item>
-					<!-- дочерние вопросы анкеты -->
-				</children>
-			</questionary_item>
-		</questionary>
-		<questionary></questionary>
-	</promo>
+	<salepoint>
+    <questionary name="TT SR &amp; SAR EO SP" id="7763" valid_from="2017-02-11T00:00:00 valid_to="2017-02-11T00:00:00">
+      <questionary_item id="56514" qid="44" operand_type="b" pos="0">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56515" qid="14" operand_type="b" pos="1">
+        <visit_value>
+          <kv key="1" value="Нет" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56516" qid="12" operand_type="b" pos="2">
+        <visit_value>
+          <kv key="1" value="Нет" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56517" qid="13" operand_type="b" pos="3">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56518" qid="11" operand_type="b" pos="4">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56519" qid="10" operand_type="b" pos="5">
+        <visit_value>
+          <kv key="1" value="Нет" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56520" qid="15" operand_type="b" pos="6">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56521" qid="7" operand_type="b" pos="7">
+        <visit_value>
+          <kv key="1" value="Да" />
+          <kv key="2" value="Да" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56522" qid="9" operand_type="b" pos="8">
+        <visit_value>
+          <kv key="1" value="Нет" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+      <questionary_item id="56523" qid="8" operand_type="b" pos="9">
+        <visit_value>
+          <kv key="1" value="Нет" />
+          <kv key="2" value="Нет" />
+        </visit_value>
+      </questionary_item>
+    </questionary>
+  </salepoint>
 	
 </audit_result>

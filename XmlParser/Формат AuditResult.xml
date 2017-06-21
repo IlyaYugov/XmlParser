@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
 <audit_result>
 
+
 	<refbook>
 		<sku>
 			<kv key="1" value=""/>
@@ -12,41 +13,63 @@
 		</question>
 	</refbook>
 	
+	
 	<visits>
-		<visit id="1" pos=""/>
-		<visit id="2" pos=""/>
+		<visit id="1"/>
+		<visit id="2"/>
 	</visits>
 	
-	<promo>
-		<questionary name="" id="" valid_from="" valid_to="">
-			<questionary_item id="" qid="" operand_type="" pos="" audit_value="">
-				<sked>
-					<kv key="" value=""/>
-					<kv key="" value=""/>
-				</sked>
-				<visit_value>
-					<kv key="" value=""/>
-					<kv key="" value=""/>
-				</visit_value>
-				<children>
-					<questionary_item></questionary_item>
-					<questionary_item></questionary_item>
-					<!-- дочерние вопросы анкеты -->
-				</children>
-			</questionary_item>
-		</questionary>
-		<questionary></questionary>
-	</promo>
+	
+<promo>
+    <questionary name="" id="" ValidFrom="" ValidTo="">
+      <questionary_item id="" qid="" type="" pos="" audit_value="">
+        <sked>
+          <kv key="" value=""/>
+          <kv key="" value=""/>
+        </sked>
+        <visit_value>
+          <kv id="" value=""/>
+          <kv id="" value=""/>
+        </visit_value>
+        <children>
+          <questionary_item></questionary_item>
+          <questionary_item></questionary_item>
+          <!-- дочерние вопросы анкеты -->
+        </children>
+      </questionary_item>
+    </questionary>
+    <questionary></questionary>
+  </promo>
+	
 	
 	<salepoint>
-		<!-- аналогично promo-->
+		<qforms>
+			<qform name="" id="" ValidFrom="" ValidTo="">
+				<qqforms>
+					<qqform id="" qid="" type="" pos="" audit_value="">
+						<sked>
+							<kv key="" value=""/>
+							<kv key="" value=""/>
+						</sked>
+						<visit_value>
+							<kv id="" value=""/>
+							<kv id="" value=""/>
+						</visit_value>
+						<qqforms>
+							<!-- дочерние вопросы анкеты -->
+						</qqforms>
+					</qqform>
+				</qqforms>
+			</qform>
+		</qforms>
 	</salepoint>
+	
 	
 	<sku>
 		<sku id="" is_selected="" pos="">
-			<questionary_item id="" qid="" operand_type="" pos="" audit_value="">
+			<qqforms>
 				<!-- аналогично из promo -->
-			</questionary_item>
+			</qqforms>
 		</sku>
 	</sku>
 </audit_result>
